@@ -1,4 +1,4 @@
-# Contributing to the Manipulator Control System
+# Contributing to the Internet of Things
 
 Thank you for considering contributing to our project! We appreciate your support and are excited to work with you to make this project even better.
 
